@@ -1,0 +1,29 @@
+tr{
+    border: 1px solid black;
+}
+th{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+}
+.tr{
+    background-color: red;
+}
+.hj{
+    background-color: green;
+}
+.t{
+    background-color: blueviolet;
+}
+.u{
+    background-color: yellow;
+}
+.for{
+    List-style:none
+}
+.f{
+    text-align: center;
+}
+
+
